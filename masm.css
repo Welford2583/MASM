@@ -1,0 +1,44 @@
+body{
+    background: url("logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-position: center;
+    
+}
+
+h1{
+    color: rgba(4, 4, 107, 0.822);
+    font-style: inherit;
+}
+
+image{
+    width: 450px;
+}
+
+
+.center{
+    background-color: #ffffff;
+    padding: 20px;
+    width: 750px;
+    margin: 180px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+span{
+    font-weight: bold;
+}
+
+button{
+    width: 180px;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 10px 0;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: rgba(4, 4, 107, 0.822);;
+    color: whitesmoke;
+}
